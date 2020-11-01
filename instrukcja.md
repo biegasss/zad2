@@ -166,3 +166,9 @@ internetowych
 
 
 ![alttext](https://i.ibb.co/NF1fph5/obraz-8.jpg "obraz 8")
+
+### Tworzenie spisu treści na podstawie nagłówków
+
+
+
+![alttext](https://i.ibb.co/m6bwnVS/obraz-9.jpg "obraz 9")
