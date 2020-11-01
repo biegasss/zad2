@@ -126,3 +126,11 @@ Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
 Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
 
 Listy nienumerowane definiujemy znakami: *,+,-
+
+
+
+### Wyróżnianie tekstu
+
+
+
+![alttext](https://i.ibb.co/0XQqM41/obraz-6.jpg "obraz 6")
