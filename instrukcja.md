@@ -98,3 +98,31 @@ i tak w 2016 r. opublikowano dokument [RFC 7764](https://tools.ietf.org/html/rfc
 * CommonMark,
 * GitHub Flavored Markdown (GFM),
 * Markdown Extra.
+
+
+
+## Podstawy składni
+
+Podany link: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet zawiera opis
+podstawowych elementów składni w języku angielskim. Poniżej zostanie przedstawiony ich krótki
+opis w języku polskim.
+
+
+
+### Definiowanie nagłówków
+
+W tym celu używamy znaku kratki
+
+Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
+
+![alttext](https://i.ibb.co/MGJCqDM/obraz-4.jpg "obraz 4")
+
+### Definiowanie list
+
+
+
+![alttext](https://i.ibb.co/n8B3KsP/obraz-5.jpg "obraz 5")
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
+
+Listy nienumerowane definiujemy znakami: *,+,-
