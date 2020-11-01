@@ -4,7 +4,7 @@
 
 # Spis treści
 
-
+[toc]
 
 ## Wstęp
 
