@@ -200,7 +200,11 @@ Jeżeli chcemy konwertować do formatu latex i pdf trzeba doinstalować oprogram
 
 Gdyby podczas konwersji do formatu pdf pojawił się komunikat o niemożliwości znalezienia programu pdflatex rozwiązaniem jest wskazanie w zmiennej środowiskowej PATH miejsca jego położenia
 
+![alttext](https://i.ibb.co/WyZZhcV/obraz-11.jpg "obraz 11")
 
+![alttext](https://i.ibb.co/vqyf23J/obraz-12.jpg "obraz 12")
+
+![alttext](https://i.ibb.co/NmBzmp3/obraz-13.jpg "obraz 13")
 
 Pod adresem (https://gitlab.com/mniewins66/templatemn.git) znajduje się przykładowy plik Markdown z którego można wygenerować prezentację w formacie pdf wykorzystując klasę latexa beamer.
 
