@@ -160,3 +160,9 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 !&#91;alt text&#93;(https://server.com/images/icon48.png "Logo 1") – obrazek z zasobów
 internetowych
 !&#91;&#93;(logo.png) – obraz z lokalnych zasobów
+
+### Kod źródłowy dla różnych języków programowania
+
+
+
+![alttext](https://i.ibb.co/NF1fph5/obraz-8.jpg "obraz 8")
