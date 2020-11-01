@@ -172,3 +172,14 @@ internetowych
 
 
 ![alttext](https://i.ibb.co/m6bwnVS/obraz-9.jpg "obraz 9")
+
+## Edytory dedykowane
+
+
+
+Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w dowolnym edytorze tekstowym. Aczkolwiek istnieje wiele dedykowanych narzędzi
+
+1. Edytor Typora - https://typora.io/
+2. Visual Studio Code z wtyczką „markdown preview”
+
+![alttext](https://i.ibb.co/bQPv8wh/obraz-10.jpg "obraz 10")
