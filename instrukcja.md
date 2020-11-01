@@ -29,7 +29,7 @@ Przykład kodu html i jego interpretacja w przeglądarce:
 &lt;<span style="color:green">/</span>**body**&gt;
 &lt;<span style="color:green">/</span>**html**&gt;
 
-
+![alttext](https://i.ibb.co/WHv6PxJ/obraz-1.jpg "obraz 1")
 
 Przykład kodu Latex i wygenerowanego pliku w formacie pdf
 
@@ -47,7 +47,7 @@ Przykład kodu Latex i wygenerowanego pliku w formacie pdf
 &#8726;<span style="color:blue">**end**</span>{<span style="color:blue">**letter**</span>}
 &#8726;<span style="color:blue">**end**</span>{<span style="color:blue">**document**</span>}
 
-
+![alttext](https://i.ibb.co/YyDJmTh/obraz-2.jpg "obraz 2")
 
 Przykład kodu XML – fragment dokumentu SVG (Scalar Vector Graphics)
 
@@ -59,6 +59,8 @@ Przykład kodu XML – fragment dokumentu SVG (Scalar Vector Graphics)
 &lt;<span style="color:green">/</span>svg&gt;
 &lt;<span style="color:green">/</span>**body**&gt;
 &lt;<span style="color:green">/</span>**html**&gt;
+
+![alttext](https://i.ibb.co/9VYFGSX/obraz-3.jpg "obraz 3")
 
 W tym przypadku mamy np. znacznik np. &lt;circle&gt; opisujący parametry koła i który może być
 właściwie zinterpretowany przez dedykowaną aplikację (np. przeglądarki www).
