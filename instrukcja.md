@@ -134,3 +134,9 @@ Listy nienumerowane definiujemy znakami: *,+,-
 
 
 ![alttext](https://i.ibb.co/0XQqM41/obraz-6.jpg "obraz 6")
+
+### Tabele
+
+
+
+![alttext](https://i.ibb.co/mC66d71/obraz-7.jpg "obraz 7")
